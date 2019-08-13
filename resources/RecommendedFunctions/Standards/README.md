@@ -2,7 +2,5 @@
 
 ----
 
-Jeffrey Sarnoff © 2019-Aug-13
-
-[(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+Jeffrey Sarnoff © 2019-Aug-13 <p></p> [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
 
